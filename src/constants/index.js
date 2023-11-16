@@ -151,7 +151,7 @@ export const experiences = [
         ],
     },
     {
-        title: "Realtor",
+        title: "Real Estate Broker",
         company_name: "Re/Max in Paradise",
         icon: tesla,
         iconBg: "#b7e4c7",
@@ -196,6 +196,22 @@ export const socialLinks = [
 ];
 
 export const projects = [
+
+    {
+        iconUrl: car,
+        theme: 'btn-back-blue',
+        name: 'Modern Nike Mockup',
+        description: 'A modern and minimalist mock-up for Nike using html, javascript and tailwind.',
+        link: 'https://65559ba25a7a72374aecce43--phenomenal-choux-b1e1bb.netlify.app/',
+    },
+
+    {
+        iconUrl: snapgram,
+        theme: 'btn-back-pink',
+        name: '3d Portfolio',
+        description: '3d full stack web developer portfolio using html, tailwind, javascript, and threeJS.',
+        link: 'https://6555810fac7e79250785a385--dapper-stardust-449e18.netlify.app/',
+    },
     
     {
         iconUrl: pricewise,
@@ -213,20 +229,8 @@ export const projects = [
         description: 'A mini e-commerce application built with Ruby on Rails that allows visitors to view, purchase, and review products. Email receipts are sent upon a successful order that uses the Stripe API for secure transactions. Built with Ruby, Rails, Stripe API, PostgreSQL, Bootstrap CSS',
         link: 'https://github.com/RorySchof/Jungle_App/blob/master/README.md',
     },
-    {
-        iconUrl: car,
-        theme: 'btn-back-blue',
-        name: 'Modern Nike Mockup',
-        description: 'A modern and minimalist mock-up for Nike using html, javascript and tailwind.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
-    },
-    {
-        iconUrl: snapgram,
-        theme: 'btn-back-pink',
-        name: '3d Portfolio',
-        description: '3d full stack web developer portfolio using html, tailwind, javascript, and threeJS.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
-    },
+   
+    
     {
         iconUrl: estate,
         theme: 'btn-back-black',
@@ -239,6 +243,6 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'Your Idea Here',
         description: 'If you can dream of it, we can create it together.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        link: 'https://6555810fac7e79250785a385--dapper-stardust-449e18.netlify.app/contact',
     }
 ];

@@ -288,7 +288,7 @@ const Contact = () => {
               name='message'
               rows='4'
               className='textarea'
-              placeholder='Write your thoughts here...'
+              placeholder='Contact form is disabled. Please email me at roryschofield@gmail.com'
               value={form.message}
               onChange={handleChange}
               onFocus={handleFocus}
